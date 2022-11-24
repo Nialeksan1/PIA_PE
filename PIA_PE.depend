@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1669252743 source:c:\users\ninec\onedrive\documents\escuelalibros\lccsegundosemestre\programaciónestructurada\pia\pia_pe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"cliente.h"
+	"auto.h"
+
+1668558691 source:c:\users\ninec\onedrive\documents\escuelalibros\lccsegundosemestre\programaciónestructurada\pia\pia_pe\cliente.c
+	<stdio.h>
+
+1669253050 c:\users\ninec\onedrive\documents\escuelalibros\lccsegundosemestre\programaciónestructurada\pia\pia_pe\cliente.h
+
+1669252780 c:\users\ninec\onedrive\documents\escuelalibros\lccsegundosemestre\programaciónestructurada\pia\pia_pe\auto.h
+
